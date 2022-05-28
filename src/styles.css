@@ -25,8 +25,8 @@ body {
   align-items: center;
 }
 .container {
-  width: 500px;
-  height: 60vh;
+  width: 400px;
+  height: 70vh;
   background-color: var(--blue-2);
   box-shadow: 10px 10px 10px var(--shadow-dark);
   border-radius: 20px;
